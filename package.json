@@ -1,6 +1,7 @@
 {
   "type": "module",
   "scripts": {
+    "prod": "NODE_ENV=production node_modules/.bin/babel-node --experimental-specifier-resolution=node src/index.js",
     "build": "babel index.js -d dist",
     "dev": "nodemon --experimental-specifier-resolution=node --exec node_modules/.bin/babel-node index.js",
     "test": "jest --detectOpenHandles --coverage"

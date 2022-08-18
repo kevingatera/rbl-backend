@@ -25,10 +25,13 @@ To test the endpoints use the extension called `Rest Client` the file named `req
 
 # Usage
 
-To run the app use:
+To run the app in dev mode use:
+
+`npm run prod`
+
+To run the app in prod mode use:
 
 `npm run dev`
-
 
 To run the tests use (also includes coverage report):
 
