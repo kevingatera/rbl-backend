@@ -1,0 +1,493 @@
+[
+	/* 1 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aae",
+		"name" : "The Cranberries",
+		"rate" : 0.004,
+		"streams" : 9986461,
+		"paidStreams" : 9986024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 2 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aad",
+		"name" : "Lenny Kravitz",
+		"rate" : 0.00735,
+		"streams" : 6991743,
+		"paidStreams" : 6991024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 3 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aac",
+		"name" : "Lana Del Rey",
+		"rate" : 0.0125,
+		"streams" : 3852207,
+		"paidStreams" : 3852024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 4 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aab",
+		"name" : "The Tragically Hip",
+		"rate" : 0.00735,
+		"streams" : 673599,
+		"paidStreams" : 673024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 5 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aaa",
+		"name" : "Stevie Wonder",
+		"rate" : 0.004,
+		"streams" : 40299356,
+		"paidStreams" : 40299024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 6 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aa9",
+		"name" : "H.E.R.",
+		"rate" : 0.00735,
+		"streams" : 2876370,
+		"paidStreams" : 2876024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 7 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aa8",
+		"name" : "The Notorious B.I.G.",
+		"rate" : 0.004,
+		"streams" : 5279163,
+		"paidStreams" : 5279024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 8 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aa7",
+		"name" : "The Who",
+		"rate" : 0.004,
+		"streams" : 7727159,
+		"paidStreams" : 7727024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 9 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aa6",
+		"name" : "Panic! At The Disco",
+		"rate" : 0.0125,
+		"streams" : 8369275,
+		"paidStreams" : 8369024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 10 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aa5",
+		"name" : "Elton John",
+		"rate" : 0.00069,
+		"streams" : 31609401,
+		"paidStreams" : 31609024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 11 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aa4",
+		"name" : "New York Dolls",
+		"rate" : 0.00069,
+		"streams" : 3690895,
+		"paidStreams" : 3690024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 12 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aa3",
+		"name" : "Blur",
+		"rate" : 0.004,
+		"streams" : 6050672,
+		"paidStreams" : 6050024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 13 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aa2",
+		"name" : "AJR",
+		"rate" : 0.0125,
+		"streams" : 3030221,
+		"paidStreams" : 3030024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 14 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aa1",
+		"name" : "Radiohead",
+		"rate" : 0.004,
+		"streams" : 11354525,
+		"paidStreams" : 11354024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 15 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8aa0",
+		"name" : "Curtis Harding",
+		"rate" : 0.00069,
+		"streams" : 7198539,
+		"paidStreams" : 7198024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 16 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a9f",
+		"name" : "Aerosmith",
+		"rate" : 0.00735,
+		"streams" : 14890938,
+		"paidStreams" : 14890024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 17 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a9e",
+		"name" : "Post Malone",
+		"rate" : 0.004,
+		"streams" : 814269,
+		"paidStreams" : 814024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 18 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a9d",
+		"name" : "Aesop Rock",
+		"rate" : 0.0125,
+		"streams" : 4910439,
+		"paidStreams" : 4910024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 19 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a9c",
+		"name" : "Oasis",
+		"rate" : 0.00069,
+		"streams" : 13943957,
+		"paidStreams" : 13943024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 20 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a9b",
+		"name" : "Weezer",
+		"rate" : 0.00735,
+		"streams" : 8984722,
+		"paidStreams" : 8984024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 21 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a9a",
+		"name" : "Bruno Mars",
+		"rate" : 0.004,
+		"streams" : 7353029,
+		"paidStreams" : 7353024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 22 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a99",
+		"name" : "Ed Sheeran",
+		"rate" : 0.004,
+		"streams" : 6578068,
+		"paidStreams" : 6578024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 23 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a98",
+		"name" : "Lil Nas X",
+		"rate" : 0.0125,
+		"streams" : 3238020,
+		"paidStreams" : 3238024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 24 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a97",
+		"name" : "Diana Ross",
+		"rate" : 0.004,
+		"streams" : 4672163,
+		"paidStreams" : 4672024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 25 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a96",
+		"name" : "Motley Crue",
+		"rate" : 0.00735,
+		"streams" : 5116794,
+		"paidStreams" : 5116024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 26 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a95",
+		"name" : "DMX",
+		"rate" : 0.00735,
+		"streams" : 1185553,
+		"paidStreams" : 1185024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 27 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a94",
+		"name" : "Pearl Jam",
+		"rate" : 0.004,
+		"streams" : 10284436,
+		"paidStreams" : 10284024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 28 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a93",
+		"name" : "Eric Clapton",
+		"rate" : 0.0125,
+		"streams" : 10916069,
+		"paidStreams" : 10916024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 29 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a92",
+		"name" : "Ice Cube",
+		"rate" : 0.004,
+		"streams" : 6851914,
+		"paidStreams" : 6851024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 30 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a91",
+		"name" : "Green Day",
+		"rate" : 0.004,
+		"streams" : 16723758,
+		"paidStreams" : 16723024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 31 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a90",
+		"name" : "Foo Fighters",
+		"rate" : 0.00069,
+		"streams" : 12277284,
+		"paidStreams" : 12277024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 32 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a8f",
+		"name" : "Nirvana",
+		"rate" : 0.0125,
+		"streams" : 16005398,
+		"paidStreams" : 16005024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 33 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a8e",
+		"name" : "MegaDeth",
+		"rate" : 0.00735,
+		"streams" : 3007020,
+		"paidStreams" : 3007024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 34 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a8d",
+		"name" : "Neil Young",
+		"rate" : 0.004,
+		"streams" : 5933737,
+		"paidStreams" : 5933024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 35 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a8c",
+		"name" : "The Beatles",
+		"rate" : 0.00735,
+		"streams" : 23300412,
+		"paidStreams" : 23300024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 36 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a8b",
+		"name" : "Billie Eilish",
+		"rate" : 0.0125,
+		"streams" : 5560460,
+		"paidStreams" : 5560024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 37 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a8a",
+		"name" : "Queen",
+		"rate" : 0.0126,
+		"streams" : 41917685,
+		"paidStreams" : 41917685,
+		"lastPaidAt" : "2022-08-15T23:51:40.523-04:00",
+		"updatedAt" : "2022-08-15T23:52:22.023-04:00"
+	},
+
+	/* 38 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a89",
+		"name" : "Rush",
+		"rate" : 0.00069,
+		"streams" : 3536180,
+		"paidStreams" : 3536024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 39 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a88",
+		"name" : "Marvin Gaye",
+		"rate" : 0.0125,
+		"streams" : 21322650,
+		"paidStreams" : 21322024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 40 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a87",
+		"name" : "Black Sabbath",
+		"rate" : 0.00735,
+		"streams" : 7720592,
+		"paidStreams" : 7720024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 41 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a86",
+		"name" : "Drake",
+		"rate" : 0.00069,
+		"streams" : 19189935,
+		"paidStreams" : 19189024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 42 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a85",
+		"name" : "The Rolling Stones",
+		"rate" : 0.004,
+		"streams" : 19725769,
+		"paidStreams" : 19725024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 43 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a84",
+		"name" : "David Bowie",
+		"rate" : 0.004,
+		"streams" : 15670005,
+		"paidStreams" : 15670005,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 44 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a83",
+		"name" : "N.W.A.",
+		"rate" : 0.00735,
+		"streams" : 3899390,
+		"paidStreams" : 3899024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 45 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a82",
+		"name" : "Lady Gaga",
+		"rate" : 0.004,
+		"streams" : 2810121,
+		"paidStreams" : 2810024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 46 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a81",
+		"name" : "The Weekend",
+		"rate" : 0.0125,
+		"streams" : 9826577,
+		"paidStreams" : 9826024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 47 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a80",
+		"name" : "Metallica",
+		"rate" : 0.00735,
+		"streams" : 15658397,
+		"paidStreams" : 15658024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 48 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a7f",
+		"name" : "Led Zepplin",
+		"rate" : 0.00735,
+		"streams" : 14647824,
+		"paidStreams" : 14647024,
+		"lastPaidAt" : "2022-07-22T10:56:59.301-04:00"
+	},
+
+	/* 49 createdAt:14/08/2022, 21:33:36*/
+	{
+		"_id" : "62f9a2700dc6fd5bb96b8a7e",
+		"name" : "Machine Gun Kelly",
+		"rate" : 0.00069,
+		"streams" : 1763113,
+		"paidStreams" : 1763113,
+		"lastPaidAt" : "2022-08-15T23:44:59.724-04:00",
+		"updatedAt" : "2022-08-15T23:44:59.725-04:00"
+	}
+]
