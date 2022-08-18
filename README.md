@@ -54,5 +54,6 @@ I chose to modify the database as follows:
 
 ## Not taken care of:
 * Invalidating the user/logging out when page is visited after cookie expired 
-
+* On the frontend side, I assumed that the refund is outside the requirements
+* I also assumed that the accountant paying will be sure (so no modal for confirmation of payment) 
  
